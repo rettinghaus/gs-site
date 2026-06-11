@@ -1,0 +1,27 @@
+main:
+  - title: "Konzerte"
+    url: /konzerte/
+  - title: "Künstler"
+    url: /kuenstler/
+  - title: "Resonanz"
+    url: /resonanz/
+  - title: "Lebenslauf"
+    url: /lebenslauf/
+  - title: "150. Geburtstag"
+    url: /150-geburtstag/
+  - title: "Galerie"
+    url: /galerie/
+  - title: "Werkverzeichnis"
+    url: /werkverzeichnis/
+  - title: "Musikbeispiele"
+    url: /musikbeispiele/
+  - title: "Literatur"
+    url: /literatur/
+  - title: "Publikationen"
+    url: /publikationen/
+  - title: "Über uns"
+    url: /ueber-uns/
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "Links"
+    url: /links/
