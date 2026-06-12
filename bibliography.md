@@ -52,4 +52,4 @@ permalink: /bibliography/
 
 ---
 
-Weitere Titel finden Sie in unserer Bibliographie auf [Zotero](https://www.zotero.org/groups/5898982/georg_schumann_gesellschaft).
+Sie finden diese Bibliographie auch auf [Zotero](https://www.zotero.org/groups/5898982/georg_schumann_gesellschaft).
