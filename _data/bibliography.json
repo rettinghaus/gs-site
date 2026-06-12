@@ -1,0 +1,275 @@
+[
+	{
+		"id": "http://zotero.org/groups/5898982/items/GP2PBMTV",
+		"type": "book",
+		"ISBN": "978-3-87397-383-1",
+		"language": "ger",
+		"note": "event-title: Bachwochen Dill",
+		"number-of-pages": "90",
+		"publisher": "Musikverl. Katzbichler",
+		"publisher-place": "München Salzburg",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "Bach, G. Schumann, Dvorák, Hummel: Beiträge zur Musikforschung ; Jahrbuch der Bachwochen Dill 2000",
+		"title-short": "Bach, G. Schumann, Dvorák, Hummel",
+		"editor": [
+			{
+				"family": "Schult",
+				"given": "Wolfgang"
+			},
+			{
+				"literal": "Bachwochen Dill e.V"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/Y8L5VISS",
+		"type": "chapter",
+		"container-title": "Bach, G. Schumann, Dvorák, Hummel: Beiträge zur Musikforschung ; Jahrbuch der Bachwochen Dill 2000",
+		"ISBN": "978-3-87397-383-1",
+		"language": "ger",
+		"note": "event-title: Bachwochen Dill",
+		"page": "77–79",
+		"publisher": "Musikverl. Katzbichler",
+		"publisher-place": "München Salzburg",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "Georg Schumann. Eine biographische Skizze",
+		"author": [
+			{
+				"family": "Schwarz",
+				"given": "Harald"
+			}
+		],
+		"editor": [
+			{
+				"family": "Schult",
+				"given": "Wolfgang"
+			},
+			{
+				"literal": "Bachwochen Dill e.V"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/X4WX8TTT",
+		"type": "chapter",
+		"container-title": "Bach, G. Schumann, Dvorák, Hummel: Beiträge zur Musikforschung ; Jahrbuch der Bachwochen Dill 2000",
+		"ISBN": "978-3-87397-383-1",
+		"language": "ger",
+		"note": "event-title: Bachwochen Dill",
+		"publisher": "Musikverl. Katzbichler",
+		"publisher-place": "München Salzburg",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "Motetten von Georg Schumann",
+		"author": [
+			{
+				"family": "Schult",
+				"given": "Wolfgang"
+			}
+		],
+		"editor": [
+			{
+				"family": "Schult",
+				"given": "Wolfgang"
+			},
+			{
+				"literal": "Bachwochen Dill e.V"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2000"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/HVL3T465",
+		"type": "article-journal",
+		"container-title": "Luigi Cherubini & Georg Schumann: Beiträge zur Musikforschung. Jahrbuch der Bachwochen Dill 2001. [2",
+		"note": "ISBN: 9783873973848",
+		"page": "77-83",
+		"source": "COinS",
+		"title": "Von \"sächischer Linienweichheit\" und der Natur - Georg Schumann, gegen seine Apologeten verteidigt",
+		"author": [
+			{
+				"family": "Horlitz",
+				"given": "Stefan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2001"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/AJ5XIP63",
+		"type": "book",
+		"language": "eng",
+		"note": "OCLC: 50075300",
+		"number-of-pages": "262",
+		"source": "Open WorldCat",
+		"title": "The choral music of Georg Schumann: a historical and musical analysis",
+		"title-short": "The choral music of Georg Schumann",
+		"author": [
+			{
+				"family": "Price",
+				"given": "Daniel L."
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1995"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/SLIDDTH3",
+		"type": "book",
+		"ISBN": "978-3-922378-16-7",
+		"language": "ger",
+		"number-of-pages": "112",
+		"publisher": "Staatliches Inst. für Musikforschung",
+		"publisher-place": "Berlin",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "Die Sing-Akademie zu Berlin und ihre Direktoren",
+		"editor": [
+			{
+				"family": "Eberle",
+				"given": "Gottfried"
+			},
+			{
+				"family": "Rautenberg",
+				"given": "Michael"
+			},
+			{
+				"literal": "Staatliches Institut für Musikforschung"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1998"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/6WKKJ6B8",
+		"type": "book",
+		"ISBN": "978-3-87584-380-4",
+		"language": "ger",
+		"number-of-pages": "239",
+		"publisher": "Nicolai",
+		"publisher-place": "Berlin",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "200 Jahre Sing-Akademie zu Berlin: ein Kunstverein für die heilige Musik",
+		"title-short": "200 Jahre Sing-Akademie zu Berlin",
+		"author": [
+			{
+				"family": "Eberle",
+				"given": "Gottfried"
+			}
+		],
+		"contributor": [
+			{
+				"literal": "Sing-Akademie zu Berlin"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1991"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/DQ94HSD6",
+		"type": "book",
+		"publisher": "Bosse",
+		"publisher-place": "Regensburg",
+		"source": "COinS",
+		"title": "Die Singakademie zu Berlin 1791 - 1941",
+		"author": [
+			{
+				"family": "Schünemann",
+				"given": "Georg 1884-1945"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1941"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/4J8FU7QL",
+		"type": "book",
+		"language": "ger",
+		"number-of-pages": "80",
+		"publisher": "E. Bisping",
+		"publisher-place": "Münster i. W",
+		"source": "Deutsche Nationalbibliothek",
+		"title": "Georg Schumann: Eine Biographie",
+		"title-short": "Georg Schumann",
+		"author": [
+			{
+				"family": "Biehle",
+				"given": "Herbert"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"1925"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/groups/5898982/items/W9CQMD8Q",
+		"type": "article-journal",
+		"container-title": "American Choral Review",
+		"ISSN": "0002-7898",
+		"issue": "2",
+		"language": "eng",
+		"page": "1–4",
+		"title": "The Motets of Georg Schumann (1866-1952)",
+		"volume": "44",
+		"author": [
+			{
+				"family": "Weinert",
+				"given": "William"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2002"
+				]
+			]
+		}
+	}
+]
