@@ -8,7 +8,7 @@ portrait_gallery:
   - url: /assets/images/schum3c.gif
     image_path: /assets/images/schum3c.gif
     alt: "Georg Schumann 1882"
-    title: "Georg Schumann 1882. Photographie. Aus der Zeitschrift 'Die Musik' Nr. VIII.22, keine Ortsangabe. Quelle: Georg Schumann Gesellschaft."
+    title: "Georg Schumann 1882. Photographie. Erstmals veröffentlicht in: Die Musik, Jg. VIII, Heft 22 (1908/1909), S. 214 (Beilage zum Aufsatz 'Wie ich Musiker wurde'). Quelle: Georg Schumann Gesellschaft."
   - url: /assets/images/schum2.jpg
     image_path: /assets/images/schum2.jpg
     alt: "Georg Schumann um 1891"
