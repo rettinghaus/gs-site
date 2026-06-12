@@ -1,32 +1,48 @@
 ---
 layout: single
-title: "Kontakt"
+title: "Kontakt & Impressum"
 permalink: /kontakt/
+author_profile: true
 ---
 
-### Georg Schumann Gesellschaft
+### Kontakt
 
-Morgensternstraße 8\
-D-12207 Berlin
+**Georg Schumann Gesellschaft**  
+Morgensternstraße 8  
+12207 Berlin  
 
-**Telefon:** +49(0) 172  316 25 38
-**E-Mail:** [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)
+**Telefon:** [+49 (0) 172 316 25 38](tel:+491723162538)  
+**E-Mail:** [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)  
+**Internet:** [www.georgschumanngesellschaft.de](http://www.georgschumanngesellschaft.de)
 
 ---
 
-### Impressum, Herausgeber:
+### Impressum
 
-**Georg Schumann Gesellschaft**\
-Vorsitzender: Michael Rautenberg\
-Morgensternstraße 8, 12207 Berlin\
-Tel./Fax: +49(0) 172  316 25 38\
-E-Mail: [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)\
-Internet: [www.georgschumanngesellschaft.de](http://www.georgschumanngesellschaft.de)
+#### Angaben gemäß § 5 TMG
 
-**Sitz:** Berlin\
-**Vorstand:** Michael Rautenberg - Volker Burkhart - Hans-Jürgen Kaiser(†)\
-**Postanschrift:** Georg Schumann Gesellschaft, Morgensternstraße 8, 12207 Berlin\
-**Errichtet:** 5. Juni 2000\
+**Herausgeber:**  
+Georg Schumann Gesellschaft  
+Morgensternstraße 8  
+12207 Berlin  
 
-**Betreuung der Internetseite:**\
-Steffen Mehnert
+**Sitz des Vereins:** Berlin  
+**Gründungsdatum:** 5. Juni 2000  
+
+**Vertreten durch den Vorstand:**  
+Michael Rautenberg (Vorsitzender)  
+Volker Burkhart  
+
+**Postanschrift:**  
+Georg Schumann Gesellschaft  
+Morgensternstraße 8  
+12207 Berlin  
+
+#### Kontakt
+**Telefon:** [+49 (0) 172 316 25 38](tel:+491723162538)  
+**E-Mail:** [georg.schumann@berlin.de](mailto:georg.schumann@berlin.de)  
+
+#### Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV / § 18 MStV
+Steffen Mehnert  
+Morgensternstraße 8  
+12207 Berlin  
