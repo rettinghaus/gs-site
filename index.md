@@ -49,7 +49,3 @@ Die Aufnahme entstand in Zusammenarbeit mit Deutschlandfunk Kultur und seinem la
 - [Hanno Müller-Brachmann](https://www.mueller-brachmann.com)
 - [Jonas Böhm](https://www.weiler-artists.de/künstler/bariton/jonas-böhm/)
 - [Deutschlandfunk Kultur](https://www.deutschlandfunkkultur.de/)
-
-<div style="clear: both;"></div>
-
-<p align="right"><small>Letzte Aktualisierung: 24. Dezember 2025</small></p>
