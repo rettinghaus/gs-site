@@ -5,8 +5,8 @@ permalink: /galerie/
 
 # Hier definieren wir die Bildergalerie nativ für Minimal Mistakes
 portrait_gallery:
-  - url: /assets/images/schum3c.gif
-    image_path: /assets/images/schum3c.gif
+  - url: /assets/images/schum3c.jpg
+    image_path: /assets/images/schum3c.jpg
     alt: "Georg Schumann 1882"
     title: "Georg Schumann 1882. Photographie. Erstmals veröffentlicht in: Die Musik, Jg. VIII, Heft 22 (1908/1909), S. 214 (Beilage zum Aufsatz 'Wie ich Musiker wurde'). Quelle: Georg Schumann Gesellschaft."
   - url: /assets/images/schum2.jpg
