@@ -46,11 +46,6 @@ permalink: /bibliography/
     {% if eintrag.publisher %}: {{ eintrag.publisher }}{% endif %}
     {% if eintrag.page %}, S. {{ eintrag.page }}{% endif %}.
 
-    <!-- 6. ZUSATZ: ISBN -->
-    {% if eintrag.ISBN %}
-      <span style="display: block; margin-left: 1.5em; font-size: 0.75em; color: var(--muted-text-color, #7a8288);">ISBN: {{ eintrag.ISBN }}</span>
-    {% endif %}
-
   </li>
 {% endfor %}
 </ul>
